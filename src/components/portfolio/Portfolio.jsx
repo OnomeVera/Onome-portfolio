@@ -13,48 +13,48 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency...',
-    github: 'https://github.com',
-    demo: 'https://dribble'
+    title: 'Simple Web Page',
+    github: 'https://github.com/OnomeVera/simple-web-page.git',
+    demo: 'http://simple-web-page-silk.vercel.app/'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Crypto Currency...',
-    github: 'https://github.com',
-    demo: 'https://dribble'
+    title: 'Simple Calculator',
+    github: 'https://github.com/OnomeVera/Simple-Calculator.git',
+    demo: 'http://simple-calculator-tau-mauve.vercel.app/'
   },
 
   {
     id: 3,
     image: IMG3,
-    title: 'Crypto Currency...',
-    github: 'https://github.com',
-    demo: 'https://dribble'
+    title: 'Infinite Image Gallery',
+    github: 'https://github.com/OnomeVera/infinite-scroll-image-gallery.git',
+    demo: 'http://infinite-scroll-image-gallery.vercel.app/'
   },
 
   {
     id: 4,
     image: IMG4,
-    title: 'Crypto Currency...',
-    github: 'https://github.com',
-    demo: 'https://dribble'
+    title: 'E-Product Page',
+    github: 'https://github.com/OnomeVera/e-product-page.git',
+    demo: 'http://e-product-page.vercel.app/'
   },
 
   {
     id: 5,
     image: IMG5,
-    title: 'Crypto Currency...',
-    github: 'https://github.com',
-    demo: 'https://dribble'
+    title: 'Survey Form',
+    github: 'https://github.com/OnomeVera/survey-form.git',
+    demo: 'http://survey-form-pink.vercel.app/'
   },
 
   {
     id: 6,
     image: IMG6,
-    title: 'Crypto Currency...',
-    github: 'https://github.com',
-    demo: 'https://dribble'
+    title: 'Responsive Image Gallery',
+    github: 'https://github.com/OnomeVera/image-gallery.git',
+    demo: 'http://image-gallery-brown.vercel.app/'
   },
 
   

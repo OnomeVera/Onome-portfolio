@@ -30,18 +30,19 @@ const About = () => {
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>Worldwide</small>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>80+ completed projects</small>
+              <small>10+ completed projects/Tasks</small>
             </article>
           </div>
 
           <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero hic ea fugit consequuntur impedit a asperiores nihil facere, quidem temporibus aspernatur sapiente error explicabo dolores dolorum numquam necessitatibus? Voluptatum, eum.
+          A dedicated and creative Developer with about 2 years of experience and a background in Mathematics with the ability to communicate in both French and English language. Ready to work as a team to develop, test, and maintain software applications and solutions.
+
             </p>
 
             <a href='#contact' className="btn btn-primary">Let's talk</a>
